@@ -6,7 +6,7 @@ This is a repository for Part 5 of my Trial Project for the JCDM role at Outlier
 
 For this creative project I wanted to draft a web page that would help students read and analyze poetry online — a kind of "close reading supplement". It is a work-in-progress, and I look forward to fine-tuning its design and educational value. (To do list at the end.)
 
-Statement: While a poem often takes up little space on the page, there are massive amounts of information "around" a poem——the author, the context, the rhyme scheme, the references, the various translations available to us. As a student, when trying to read and understand poetry, I often found myself with three or four different books open, switching back and forth between sources. My idea for this project was to start collecting this textual, historical, and visual information in one place, so that students can easily access the original text, the translation, the audio recording, and various other bits of information that would aid them in a close reading. The tool could be used to assign work on a specific passage, to aid discussion, or maybe even spark new translations. 
+Statement: While a poem often takes up little space on the page, there are massive amounts of information "around" a poem——the author, the context, the rhyme scheme, the references, the various translations available to us. As a student, when trying to read and understand poetry in another language, from another era, I often found myself with three or four different books open, switching back and forth between sources. My idea for this project was to start collecting this textual, historical, and visual information in one place, so that students can easily access the original text, the translation, the audio recording, and various other bits of information that would aid them in a close reading. The tool could be used to assign work on a specific passage, to aid discussion, or maybe even spark new translations. 
 
 
 <img width="695" alt="Screen Shot 2021-11-16 at 10 39 37 PM" src="https://user-images.githubusercontent.com/88160655/142130457-cc011d5e-ad94-4619-9577-03b7d66e47ac.png">
@@ -29,7 +29,7 @@ TO DO:
 <p>-program buttons on the center-view page to highlight rhyme scheme (alliterative verse, the "bob and wheel" in the last 5 lines), along with a pop-out for information on the manuscript (right now they're dead buttons)</p>
 <p>-create a toggle button that would toggle different translations into Modern English, so students could see different interpretations at ease, instead of just one;</p>
 <p>-make the page more interactive with fade-ins and fade-outs, perhaps a subtly undulating background, and create a sliding effect between bilingual view and center view, which lets the translation drop out and the original text seamlessly slide to the center;</p>
-<p>-fill out page in general, make it seem less like a juvenile website from 2006 
+<p>-fill out page in general, make it seem less like a juvenile website from 2006;
 <p>-reprogram the page to follow best practices (this is one of my first projects with html/css so it's not the cleanest). </p>
 
 
