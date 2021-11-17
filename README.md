@@ -21,7 +21,7 @@ One page of the site includes a bilingual view, where students can analyze a tra
 A button (bottom left) links to a second page, which is a sole-view of the original text, with additional information on the author, rhyme scheme, plus an audio recording of the Old English.
 <img width="1440" alt="Screen Shot 2021-11-16 at 10 43 43 PM" src="https://user-images.githubusercontent.com/88160655/142130835-c9d6125f-33db-4abc-8588-28313668580a.png">
 
-In short, I wanted to combine my love for poetry and language with new skills I've been learning in programming and web development. I hope you enjoy this draft (see below) and thank you for reading.
+In short, I wanted to combine my love for poetry and language with new skills I've been learning in web design and web development. I hope you enjoy this draft (see below) and thank you for reading.
 
 TO DO:
 <p>-make the site more easily scaleable using bootstrap or similar;</p>
