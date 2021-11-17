@@ -4,7 +4,7 @@ Will Bellamy - JCDM Trial Project (Part 5)
 
 This is a repository for Part 5 of my Trial Project for the JCDM role at Outlier.
 
-For this creative project, I wanted to make a "close reading supplement" for students looking to closely analyze poetry, especially poetry in translation. This is simply a draft, and there are many elements that I still would like to add (see To Do List at the end!).
+For this creative project, I wanted to make a "close reading supplement" for students looking to closely analyze poetry online, especially poetry in translation. This is simply a draft, and there are many elements that I still would like to add (see To Do List at the end!).
 
 My Artist's Statement would be as follows: While a poem arguably requires the least amount of ink, there are massive amounts of information "around" a poem——the context, the rhyme scheme, the references, the various translations available to us. As a student, when close reading a passage of poetry, I often found myself with three or four different books open, switching back and forth between sources. My idea for this project was to gather all that information in one place, so that students can easily access the original text, the translation, the audio recording, and various other bits of information that would aid them in a close reading. This kind of tool could be used to assign work on a specific passage, or aid students in writing essays on a specific passage.
 
