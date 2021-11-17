@@ -1,0 +1,156 @@
+body{
+    background-image: url("parchment_author_final.png");
+    background-size: 105%;
+    background-repeat: no repeat;
+     
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    
+}
+
+h1 {
+    font-size: 2em; 
+    color: black;
+    text-align: center;  
+    font-family: 'EB Garamond', serif;
+    margin: 0;
+   
+}
+
+header {
+   display: flex;
+   flex-direction: column;
+   align-items: center; 
+}
+
+
+#head {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-style: italic;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+    letter-spacing: .05em; 
+    line-height: 1.6em;
+    
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+}
+
+img { 
+    width: 5em; 
+    height: auto; 
+ }
+
+.poem {
+    font-weight: 600;
+    text-align: left;
+    font-size: 1em;
+}
+
+.bob {
+    margin-left:90px;
+}
+
+.wheel {
+    margin-left: 65px;
+}
+
+.original {
+    text-align: center;
+}
+
+#go-back { 
+    font-family: 'EB Garamond', serif;
+    letter-spacing: .05em; 
+    font-weight: 500;
+    text-align: center;
+    width: 7.25rem;
+    height: 1.5rem;
+    font-size: 11px;
+    border-radius: 4px;
+    background-color: #e0d283bf;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  
+}
+
+#link{
+    text-decoration: none !important;
+    color: black;
+}
+
+
+h3 {
+    font-style: italic !important;
+    font-size: 25px !important;
+}
+
+#about {
+    font-family: 'EB Garamond', serif;
+    color: black;
+    position: absolute;
+    display: flex;
+    align-self: start;
+    margin-top: 25px;
+    margin-left: 150px;
+    
+}
+
+
+#about-link:hover {
+    color: blue !important;
+}
+
+#about-link {
+    text-decoration: underline;
+    color: black;
+}
+
+#button-collection{
+    position: relative;
+    display: flex;
+   flex-direction: column;
+    justify-content:flex-end;
+    align-items: end;
+    margin-top: 75px;
+}
+
+.right-buttons {
+    font-family: 'EB Garamond', serif;
+    letter-spacing: .05em; 
+    font-weight: 500;
+    text-align: center;
+    width: 11rem;
+    height: 1.5rem;
+    font-size: 11px;
+    border-radius: 4px;
+    background-color: #e0d283bf;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+}
+
+
+audio {
+    width: 200px;
+    height: 20px;
+}
+
+
+
+
+
+

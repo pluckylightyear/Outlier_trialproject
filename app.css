@@ -1,0 +1,93 @@
+body{
+    background-image: url("parchment_final.png");
+    background-size: 105%;
+    background-repeat: no repeat;
+    
+}
+
+h1 {
+    font-size: 2em; 
+    color: black;
+    text-align: center;  
+    font-family: 'EB Garamond', serif;
+    margin: 0;
+   
+}
+
+header {
+   display: flex;
+   flex-direction: column;
+   align-items: center; 
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+    letter-spacing: .05em; 
+    line-height: 1.6em;
+    
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    
+}
+
+#head {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+
+img { 
+    width: 5em; 
+    height: auto; 
+ }
+ 
+
+.poem {
+    font-weight: 600;
+    text-align: left;
+    font-size: 1em;
+    padding-left: 10em;
+}
+
+
+.bob {
+    margin-left:90px;
+}
+
+.wheel {
+    margin-left: 65px;
+}
+
+#learn { 
+    font-family: 'EB Garamond', serif;
+    letter-spacing: .05em; 
+    font-weight: 500;
+    text-align: center;
+   text-decoration: none;
+    width: 11.5rem;
+    height: 1.5rem;
+    font-size: 11px;
+    border-radius: 4px;
+    background-color: #e0d283bf;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#link{
+    text-decoration: none !important;
+    color: black;
+}
+
+#attribute {
+    font-style: italic;
+    padding-left:2em;    
+}
+
+
