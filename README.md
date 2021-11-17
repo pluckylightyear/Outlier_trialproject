@@ -12,7 +12,7 @@ Statement: While a poem often takes up little space on the page, there are massi
 <img width="695" alt="Screen Shot 2021-11-16 at 10 39 37 PM" src="https://user-images.githubusercontent.com/88160655/142130457-cc011d5e-ad94-4619-9577-03b7d66e47ac.png">
 
 
-For this first version I chose the opening of "Sir Gawain and The Green Knight," a mysterious and often bizarre poem that survives in just one manuscript from the 14th century; the manuscript was additionally lost and rediscovered only in the 19th century. The poem begins with a grandiose reference to the siege of Troy, only to segway to Sir Gawain chopping off the head of a partially humanlike monster on Christmas. The background (Adobe InDesign) takes images from the original manuscript to immerse readers in the historical context, and to remind them that early "books" were lavishly decorated, in lieu of the simple sheets of paper we have today.
+For this first version I chose the opening of "Sir Gawain and The Green Knight," a mysterious and often bizarre poem that survives in just one manuscript from the 14th century; the manuscript was additionally lost and rediscovered only in the 19th century. The poem begins with a grandiose reference to the siege of Troy, only to segway to Sir Gawain chopping off the head of a partially humanlike monster on Christmas. The background (created in Adobe InDesign) takes images from the original manuscript to immerse readers in the historical context, and to remind them that early "books" were lavishly decorated, in lieu of the simple sheets of paper we have today.
 
 
 One page of the site includes a bilingual view, where students can analyze a translation side-by-side with the original: 
